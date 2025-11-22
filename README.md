@@ -1,14 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mericozcann/Genc-Kalder-Izmir-Innovation-Team-Works/main/Banner.png" 
-       alt="GençKalDer İzmir Innovation Team Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mericozcann/Genc-Kalder-Izmir-Innovation-Team-Works/main/Banner.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mericozcann/Genc-Kalder-Izmir-Innovation-Team-Works/main/Logo.png" 
-       alt="GençKalDer İzmir Logo" width="180">
+  <img src="https://raw.githubusercontent.com/mericozcann/Genc-Kalder-Izmir-Innovation-Team-Works/main/Logo.png" width="180">
 </p>
 
-# GencKalder İzmir – Innovation Team Works
+<p align="center">
+  <strong>Select Language / Dil Seçimi</strong><br>
+  <a href="#english-version">English</a> • 
+  <a href="#turkce-surum">Türkçe</a>
+</p>
+
+---
+
+# ENGLISH VERSION
+## GencKalder İzmir – Innovation Team Works
 
 <p align="center">
   <strong>Technical Projects · Innovation · Entrepreneurship · Ideathons · Team Collaboration</strong>
@@ -51,11 +58,13 @@ To create an innovation-oriented, collaborative environment where young individu
 
 ## Working Principles
 
-- **Collaboration:** Members participate actively and share responsibilities.  
-- **Transparency:** All processes and decisions are clearly communicated.  
-- **Innovation:** Every member contributes at least one idea or improvement.  
-- **Accountability:** Tasks are completed on time.  
-- **Growth:** Members commit to continuous personal betterment.  
+- **Collaboration**
+- **Transparency**
+- **Innovation**
+- **Accountability**
+- **Growth**
+
+(Descriptions kept concise to avoid repetition.)
 
 ---
 
@@ -65,7 +74,7 @@ To create an innovation-oriented, collaborative environment where young individu
 Held after exam periods or major organizational milestones.
 
 ### Team Meetings
-Conducted **every two weeks**, online or in person, focusing on:
+Every two weeks, focusing on:
 - Idea development  
 - Task distribution  
 - Project planning  
@@ -75,58 +84,32 @@ Conducted **every two weeks**, online or in person, focusing on:
 
 ## Upcoming Tasks (Until the Next Meeting)
 
-- Inform the team about **at least three events** and invite members.  
-- Support **GençKalDer İzmir’s social media visibility**.  
-- Prepare **one idea or improvement proposal** for system development.  
-- Act as a **facilitator** in at least one organized activity.  
-- Dedicate **20 minutes daily** to self-development.  
+- Share **at least three events** with the team  
+- Support **social media visibility**  
+- Prepare **one idea or improvement proposal**  
+- Serve as **facilitator** in one event  
+- Spend **20 minutes daily** on personal development  
 
 ---
 
 ## What’s Next?
 
-- Creating WhatsApp groups and posting on LinkedIn.  
-- General meeting after final exams.  
-- Bi-weekly team meetings.  
-- Generating project and event ideas.  
-- Members taking responsibility for mini-tasks.  
-- Planning a small social activity.  
-- Determining criteria for onboarding new members.  
+- Create WhatsApp groups & LinkedIn posts  
+- General meeting after finals  
+- Bi-weekly meeting routine  
+- Collect & evaluate project ideas  
+- Mini-task assignments  
+- Plan a social activity  
+- Define criteria for new member inclusion  
 
 ---
 
 ## Roadmap
 
-### Q1
-- Team formation  
-- Initial communication channels created  
-- Idea pool established  
-
-### Q2
-- First innovation workshop  
-- Technical visit planning  
-- Start of mini-projects  
-
-### Q3
-- Drafts and prototypes created  
-- Participation or hosting of an ideathon  
-
-### Q4
-- Final presentations  
-- Annual project summary  
-- Framework improvement for next year  
-
----
-
-## Contributing
-
-Internal contributions from Innovation Team members are welcome.
-
-Guidelines:
-- Use descriptive commit messages  
-- Document all additions clearly  
-- Prefer PRs for major updates  
-- Tag supervising board members when necessary  
+**Q1:** Team formation, communication setup, idea pool  
+**Q2:** Innovation workshop, technical visit planning, mini-projects  
+**Q3:** Prototype drafts, ideathon participation  
+**Q4:** Final presentations, yearly report, system improvement  
 
 ---
 
@@ -141,7 +124,122 @@ Guidelines:
 ---
 
 ## Contact
-
 **GençKalDer İzmir – Innovation Team**  
 Supervising Members: Meriç Özcan & Kutluhan Bayrakçı  
 Official communication channels will be added soon.
+
+---
+
+---
+
+# TÜRKÇE SÜRÜM
+## GençKalDer İzmir – İnovasyon Takımı Çalışmaları
+
+<p align="center">
+  <strong>Teknik Projeler · İnovasyon · Girişimcilik · İdeathonlar · Takım Çalışması</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Durum-Aktif-brightgreen">
+  <img src="https://img.shields.io/badge/Takım-İnovasyon%20Takımı-blue">
+  <img src="https://img.shields.io/badge/Kuruluş-GençKalDer%20İzmir-orange">
+</p>
+
+---
+
+## Genel Bakış
+**GençKalDer İzmir İnovasyon Takımı**, teknik, yaratıcı ve girişimcilik odaklı çözümler geliştirmeyi amaçlayan bir çalışma ekibidir.  
+Bu depo, takımın proje çıktıları, toplantı notları ve fikir geliştirme çalışmalarını içerir.
+
+---
+
+## Misyon
+Gençlerin yenilikçi çözümler üreterek kurumsal gelişime, toplumsal faydaya ve kişisel gelişimlerine katkı sunduğu işbirlikçi bir ortam oluşturmak.
+
+---
+
+## Takım Yapısı
+
+### Sorumlu Yönetim Kurulu Üyeleri
+- **Meriç Özcan**  
+- **Kutluhan Bayrakçı**
+
+### İnovasyon Takımı Üyeleri
+- Buğra Öztürk  
+- Eslem Uysal  
+- Özge Naz Döker  
+- Çağatay Çokgöz  
+- Beren Bayram  
+- Mine Melis Gül  
+
+---
+
+## Çalışma Prensipleri
+
+- **İşbirliği**
+- **Şeffaflık**
+- **İnovasyon**
+- **Sorumluluk**
+- **Gelişim**
+
+---
+
+## Toplantı Yapısı
+
+### Genel Toplantılar
+Sınav dönemleri sonrası gerçekleşir.
+
+### Takım Toplantıları
+İki haftada bir yapılır ve odak noktaları:
+- Fikir üretimi  
+- Görev dağılımı  
+- Proje planlama  
+- İlerleme değerlendirmesi  
+
+---
+
+## Bir Sonraki Toplantıya Kadar
+
+- Ekibe **en az üç etkinlik** duyurmak  
+- **Sosyal medya görünürlüğüne** destek olmak  
+- **Bir fikir veya iyileştirme önerisi** üretmek  
+- Bir etkinlikte **kolaylaştırıcı** görev almak  
+- Günde **20 dakika** kişisel gelişime ayırmak  
+
+---
+
+## Sırada Ne Var?
+
+- WhatsApp grupları + LinkedIn paylaşımları  
+- Finaller sonrası genel toplantı  
+- Düzenli iki haftalık toplantılar  
+- Proje/etkinlik fikirlerinin toplanması  
+- Mini görevler  
+- Sosyal aktivite  
+- Yeni üye kriterlerinin belirlenmesi  
+
+---
+
+## Yol Haritası
+
+**1. Çeyrek:** Takımın kurulması, iletişim ağının oluşturulması  
+**2. Çeyrek:** İlk inovasyon atölyesi, teknik gezi planı  
+**3. Çeyrek:** Prototipler, ideathon süreci  
+**4. Çeyrek:** Yıl sonu sunumu, raporlama, yapısal iyileştirmeler  
+
+---
+
+## Katkıda Bulunanlar
+
+| İsim | Rol |
+|------|-----|
+| Meriç Özcan | Sorumlu Yönetim Kurulu Üyesi |
+| Kutluhan Bayrakçı | Sorumlu Yönetim Kurulu Üyesi |
+| İnovasyon Takımı Üyeleri | Katkı Sağlayanlar |
+
+---
+
+## İletişim
+**GençKalDer İzmir – İnovasyon Takımı**  
+Sorumlu YK: Meriç Özcan & Kutluhan Bayrakçı  
+Resmi iletişim kanalları yakında eklenecek.
