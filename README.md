@@ -1,7 +1,9 @@
 # GencKalder İzmir – Innovation Team Works
 
 <p align="center">
-  <img src="/mnt/data/genkalder_izmir_logo.jpg" alt="GençKalDer İzmir Logo" width="200">
+  <!-- Upload the logo as media/genckalder-izmir-logo.png in this repo.
+       Then replace USERNAME below with your GitHub username if necessary. -->
+  <img src="https://raw.githubusercontent.com/USERNAME/GencKalder-Izmir-Innovation-Team-Works/main/media/genckalder-izmir-logo.png" alt="GençKalDer İzmir Logo" width="200">
 </p>
 
 <p align="center">
@@ -145,4 +147,3 @@ This repository uses the **MIT License**.
 **GençKalDer İzmir – Innovation Team**  
 Supervising Members: Meriç Özcan & Kutluhan Bayrakçı  
 Official communication channels will be added soon.
-
