@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mericozcann/Genc-Kalder-Izmir-Innovation-Team-Works/main/Banner.png" 
+       alt="GençKalDer İzmir Innovation Team Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mericozcann/Genc-Kalder-Izmir-Innovation-Team-Works/main/Logo.png" 
+       alt="GençKalDer İzmir Logo" width="180">
+</p>
+
 # GencKalder İzmir – Innovation Team Works
 
 <p align="center">
@@ -8,7 +18,6 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen">
   <img src="https://img.shields.io/badge/Team-Innovation%20Team-blue">
   <img src="https://img.shields.io/badge/Organization-GençKalDer%20İzmir-orange">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
 ---
@@ -128,11 +137,6 @@ Guidelines:
 | Meriç Özcan | Supervising Board Member |
 | Kutluhan Bayrakçı | Supervising Board Member |
 | Innovation Team Members | Contributors |
-
----
-
-## License
-This repository uses the **MIT License**.
 
 ---
 
