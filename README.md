@@ -1,12 +1,6 @@
 # GencKalder İzmir – Innovation Team Works
 
 <p align="center">
-  <!-- Upload the logo as media/genckalder-izmir-logo.png in this repo.
-       Then replace USERNAME below with your GitHub username if necessary. -->
-  <img src="https://raw.githubusercontent.com/USERNAME/GencKalder-Izmir-Innovation-Team-Works/main/media/genckalder-izmir-logo.png" alt="GençKalDer İzmir Logo" width="200">
-</p>
-
-<p align="center">
   <strong>Technical Projects · Innovation · Entrepreneurship · Ideathons · Team Collaboration</strong>
 </p>
 
@@ -21,7 +15,7 @@
 
 ## Overview
 The **GençKalDer İzmir Innovation Team** focuses on developing innovative, technical, entrepreneurial and creative solutions.  
-This repository contains the team’s work, idea development processes, project documents and meeting notes.
+This repository documents the team’s work, idea development processes, project documents and meeting notes.
 
 ---
 
@@ -82,7 +76,7 @@ Conducted **every two weeks**, online or in person, focusing on:
 
 ## What’s Next?
 
-- Opening WhatsApp groups and posting on LinkedIn.  
+- Creating WhatsApp groups and posting on LinkedIn.  
 - General meeting after final exams.  
 - Bi-weekly team meetings.  
 - Generating project and event ideas.  
