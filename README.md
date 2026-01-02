@@ -46,6 +46,9 @@ To create an innovation-oriented, collaborative environment where young individu
 - **Meriç Özcan**  
 - **Kutluhan Bayrakçı**
 
+### Innovation Team Leader
+- **Özge Naz Döker** *(Responsible for unit operations and organizational coordination)*
+
 ### Innovation Team Members
 - Buğra Öztürk  
 - Eslem Uysal  
@@ -119,6 +122,7 @@ Every two weeks, focusing on:
 |------|------|
 | Meriç Özcan | Supervising Board Member |
 | Kutluhan Bayrakçı | Supervising Board Member |
+| Özge Naz Döker | Innovation Team Leader |
 | Innovation Team Members | Contributors |
 
 ---
