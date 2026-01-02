@@ -164,6 +164,9 @@ Gençlerin yenilikçi çözümler üreterek kurumsal gelişime, toplumsal fayday
 - **Meriç Özcan**  
 - **Kutluhan Bayrakçı**
 
+### İnovasyon Takımı Birim Lideri
+- **Özge Naz Döker** *(Birim işleyişi ve organizasyonundan sorumlu)*
+
 ### İnovasyon Takımı Üyeleri
 - Buğra Öztürk  
 - Eslem Uysal  
@@ -235,6 +238,7 @@ Sınav dönemleri sonrası gerçekleşir.
 |------|-----|
 | Meriç Özcan | Sorumlu Yönetim Kurulu Üyesi |
 | Kutluhan Bayrakçı | Sorumlu Yönetim Kurulu Üyesi |
+| Özge Naz Döker | İnovasyon Takımı Birim Lideri |
 | İnovasyon Takımı Üyeleri | Katkı Sağlayanlar |
 
 ---
